@@ -166,4 +166,4 @@ Contributions are welcome. Please open issues and pull requests for the npm pack
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/k0src/Typst-SSG-Package/blob/master/LICENSE)
