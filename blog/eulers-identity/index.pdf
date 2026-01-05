@@ -1783,11 +1783,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/)
   >>
   /F 4
   /StructParent 0
-  /Contents (tssg:sametab:http://localhost:3000/)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/)
 >>
 endobj
 
@@ -1800,11 +1800,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/about)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/about)
   >>
   /F 4
   /StructParent 1
-  /Contents (tssg:sametab:http://localhost:3000/about)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/about)
 >>
 endobj
 
@@ -1817,11 +1817,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/blog)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/blog)
   >>
   /F 4
   /StructParent 2
-  /Contents (tssg:sametab:http://localhost:3000/blog)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/blog)
 >>
 endobj
 
@@ -1834,11 +1834,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/projects)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/projects)
   >>
   /F 4
   /StructParent 3
-  /Contents (tssg:sametab:http://localhost:3000/projects)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/projects)
 >>
 endobj
 
@@ -1902,8 +1902,8 @@ endobj
 146 0 obj
 <<
   /Creator (Typst 0.14.1)
-  /ModDate (D:20260105151418-06'00)
-  /CreationDate (D:20260105151418-06'00)
+  /ModDate (D:20260105151700-06'00)
+  /CreationDate (D:20260105151700-06'00)
 >>
 endobj
 
@@ -1914,7 +1914,7 @@ endobj
   /Subtype /XML
 >>
 stream
-<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><xmp:CreatorTool>Typst 0.14.1</xmp:CreatorTool><dc:language><rdf:Bag><rdf:li>en</rdf:li></rdf:Bag></dc:language><xmp:ModifyDate>2026-01-05T15:14:18-06:00</xmp:ModifyDate><xmp:CreateDate>2026-01-05T15:14:18-06:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>+mGHothG3amBuvb/iYEpBA==</xmpMM:InstanceID><xmpMM:DocumentID>+mGHothG3amBuvb/iYEpBA==</xmpMM:DocumentID><xmpMM:RenditionClass>proof</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><xmp:CreatorTool>Typst 0.14.1</xmp:CreatorTool><dc:language><rdf:Bag><rdf:li>en</rdf:li></rdf:Bag></dc:language><xmp:ModifyDate>2026-01-05T15:17:00-06:00</xmp:ModifyDate><xmp:CreateDate>2026-01-05T15:17:00-06:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>93AEDLqJNrorw7MUbFLKog==</xmpMM:InstanceID><xmpMM:DocumentID>93AEDLqJNrorw7MUbFLKog==</xmpMM:DocumentID><xmpMM:RenditionClass>proof</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
 endstream
 endobj
 
@@ -2079,21 +2079,21 @@ xref
 0000040053 00000 n
 0000040100 00000 n
 0000040148 00000 n
-0000040433 00000 n
-0000040728 00000 n
-0000041021 00000 n
-0000041318 00000 n
-0000041697 00000 n
-0000047280 00000 n
-0000047407 00000 n
-0000048493 00000 n
+0000040457 00000 n
+0000040776 00000 n
+0000041093 00000 n
+0000041414 00000 n
+0000041793 00000 n
+0000047376 00000 n
+0000047503 00000 n
+0000048589 00000 n
 trailer
 <<
   /Size 149
   /Root 148 0 R
   /Info 146 0 R
-  /ID [(+mGHothG3amBuvb/iYEpBA==) (+mGHothG3amBuvb/iYEpBA==)]
+  /ID [(93AEDLqJNrorw7MUbFLKog==) (93AEDLqJNrorw7MUbFLKog==)]
 >>
 startxref
-48730
+48826
 %%EOF

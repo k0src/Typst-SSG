@@ -2574,11 +2574,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/)
   >>
   /F 4
   /StructParent 0
-  /Contents (tssg:sametab:http://localhost:3000/)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/)
 >>
 endobj
 
@@ -2591,11 +2591,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/about)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/about)
   >>
   /F 4
   /StructParent 1
-  /Contents (tssg:sametab:http://localhost:3000/about)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/about)
 >>
 endobj
 
@@ -2608,11 +2608,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/blog)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/blog)
   >>
   /F 4
   /StructParent 2
-  /Contents (tssg:sametab:http://localhost:3000/blog)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/blog)
 >>
 endobj
 
@@ -2625,11 +2625,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/projects)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/projects)
   >>
   /F 4
   /StructParent 3
-  /Contents (tssg:sametab:http://localhost:3000/projects)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/projects)
 >>
 endobj
 
@@ -2676,11 +2676,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/blog)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/blog)
   >>
   /F 4
   /StructParent 6
-  /Contents (tssg:sametab:http://localhost:3000/blog)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/blog)
 >>
 endobj
 
@@ -2693,11 +2693,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/projects)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/projects)
   >>
   /F 4
   /StructParent 7
-  /Contents (tssg:sametab:http://localhost:3000/projects)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/projects)
 >>
 endobj
 
@@ -2710,11 +2710,11 @@ endobj
   /A <<
     /Type /Action
     /S /URI
-    /URI (tssg:sametab:http://localhost:3000/about)
+    /URI (tssg:sametab:https://k0src.github.io/Typst-SSG/about)
   >>
   /F 4
   /StructParent 8
-  /Contents (tssg:sametab:http://localhost:3000/about)
+  /Contents (tssg:sametab:https://k0src.github.io/Typst-SSG/about)
 >>
 endobj
 
@@ -2783,8 +2783,8 @@ endobj
 199 0 obj
 <<
   /Creator (Typst 0.14.1)
-  /ModDate (D:20260105151420-06'00)
-  /CreationDate (D:20260105151420-06'00)
+  /ModDate (D:20260105151702-06'00)
+  /CreationDate (D:20260105151702-06'00)
 >>
 endobj
 
@@ -2795,7 +2795,7 @@ endobj
   /Subtype /XML
 >>
 stream
-<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><xmp:CreatorTool>Typst 0.14.1</xmp:CreatorTool><dc:language><rdf:Bag><rdf:li>en</rdf:li></rdf:Bag></dc:language><xmp:ModifyDate>2026-01-05T15:14:20-06:00</xmp:ModifyDate><xmp:CreateDate>2026-01-05T15:14:20-06:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>nXp8MJnsOJFYe+SUsxkTIQ==</xmpMM:InstanceID><xmpMM:DocumentID>nXp8MJnsOJFYe+SUsxkTIQ==</xmpMM:DocumentID><xmpMM:RenditionClass>proof</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><xmp:CreatorTool>Typst 0.14.1</xmp:CreatorTool><dc:language><rdf:Bag><rdf:li>en</rdf:li></rdf:Bag></dc:language><xmp:ModifyDate>2026-01-05T15:17:02-06:00</xmp:ModifyDate><xmp:CreateDate>2026-01-05T15:17:02-06:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>nTdll9wKu4GkzaofJve4gg==</xmpMM:InstanceID><xmpMM:DocumentID>nTdll9wKu4GkzaofJve4gg==</xmpMM:DocumentID><xmpMM:RenditionClass>proof</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
 endstream
 endobj
 
@@ -3008,26 +3008,26 @@ xref
 0000059535 00000 n
 0000059583 00000 n
 0000059631 00000 n
-0000059916 00000 n
-0000060211 00000 n
-0000060504 00000 n
-0000060801 00000 n
-0000061048 00000 n
-0000061355 00000 n
-0000061646 00000 n
-0000061947 00000 n
-0000062236 00000 n
-0000062691 00000 n
-0000069244 00000 n
-0000069371 00000 n
-0000070457 00000 n
+0000059940 00000 n
+0000060259 00000 n
+0000060576 00000 n
+0000060897 00000 n
+0000061144 00000 n
+0000061451 00000 n
+0000061766 00000 n
+0000062091 00000 n
+0000062404 00000 n
+0000062859 00000 n
+0000069412 00000 n
+0000069539 00000 n
+0000070625 00000 n
 trailer
 <<
   /Size 202
   /Root 201 0 R
   /Info 199 0 R
-  /ID [(nXp8MJnsOJFYe+SUsxkTIQ==) (nXp8MJnsOJFYe+SUsxkTIQ==)]
+  /ID [(nTdll9wKu4GkzaofJve4gg==) (nTdll9wKu4GkzaofJve4gg==)]
 >>
 startxref
-70694
+70862
 %%EOF
