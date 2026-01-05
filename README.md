@@ -89,6 +89,11 @@ export default {
   // Output directory (default: "./build")
   output: "./build",
 
+  // Base path for deployment (default: "/")
+  // For GitHub Pages project sites, use "/repo-name/"
+  // For user/org sites or custom domains, use "/"
+  base: "/",
+
   // Which page maps to root route "/" (default: "index.typ")
   indexPage: "index.typ",
 
