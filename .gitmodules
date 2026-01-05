@@ -1,6 +1,0 @@
-[submodule "Typst-SSG-Util-Package"]
-	path = Typst-SSG-Util-Package
-	url = https://github.com/k0src/Typst-SSG-Util-Package.git
-[submodule "Typst-SSG-Package"]
-	path = Typst-SSG-Package
-	url = https://github.com/k0src/Typst-SSG-Package.git

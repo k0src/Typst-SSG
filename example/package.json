@@ -1,9 +1,0 @@
-{
-  "name": "tyspt-ssg-exmple",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "tssg dev",
-    "build": "tssg build"
-  }
-}
