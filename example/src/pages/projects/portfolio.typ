@@ -2,6 +2,8 @@
 #import "../../components/card.typ": card
 #import "../../components/unsplash-image.typ": unsplash-image
 
+#page-title("Example Site - Portfolio")
+
 #align(center)[
   #text(size: 2em, weight: "bold")[John Developer]
   #v(0.25em)

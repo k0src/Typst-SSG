@@ -1,5 +1,7 @@
 #import "@local/tssg-util:0.1.0": *
 
+#page-title("Example Site - Technical Report")
+
 #align(center)[
   #text(size: 1.8em, weight: "bold")[
     Performance Analysis of Sorting Algorithms
