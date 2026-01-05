@@ -1,6 +1,8 @@
 #import "@local/tssg-util:0.1.0": *
 #import "../components/card.typ": card
 
+#page-title("Example Site - About")
+
 = About This Example Site
 
 This example site demonstrates the capabilities of Typst SSG. Typst SSG takes #c(".typ") files and compiles them into PDFs, which are then converted into static HTML pages using a custom PDFium-based PDF viewer, which supports text selection and clickable links.

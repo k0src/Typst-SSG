@@ -1,5 +1,7 @@
 #import "@local/tssg-util:0.1.0": *
 
+#page-title("Example Site - Home")
+
 = Welcome to Typst SSG
 
 Typst SSG is a static site generator that uses #link("https://typst.app")[Typst] to create beautiful websites, compiling Typst files into PDFs that are then converted into static HTML pages.
