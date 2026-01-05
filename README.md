@@ -30,21 +30,20 @@ npm install typst-ssg
 ### Create a New Site
 
 ```bash
-tssg init my-site
+npx tssg init my-site
 cd my-site
-npm install
 ```
 
 ### Development
 
 ```bash
-npm run dev
+npx npm run dev
 ```
 
 ### Build for Production
 
 ```bash
-npm run build
+npx npm run build
 ```
 
 ## Project Structure
