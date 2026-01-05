@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Example Site - Technical Report</title>
-    <link rel="stylesheet" href="/assets/_viewer.css" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png" />
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+    <link rel="stylesheet" href="/Typst-SSG/assets/_viewer.css" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/Typst-SSG/assets/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/Typst-SSG/assets/favicon-16x16.png" />
+    <link rel="icon" type="image/x-icon" href="/Typst-SSG/assets/favicon.ico" />
     <style>
       /* === index.css === */
 #pdf-container {
@@ -29,8 +29,9 @@
       window.PDF_QUALITY = 2;
       window.HAS_SIDEBAR = false;
       window.HAS_TOC = false;
+      window.BASE_PATH = "/Typst-SSG/";
     </script>
-    <script type="module" src="/assets/_viewer.js"></script>
+    <script type="module" src="/Typst-SSG/assets/_viewer.js"></script>
     <script>
       if (
         window.location.hostname === "localhost" ||
