@@ -6,6 +6,12 @@ A static site generator that compiles [Typst](https://typst.app) documents to PD
 - [npm Package Repository](https://github.com/k0src/Typst-SSG-Package)
 - [Typst Package Repository](https://github.com/k0src/Typst-SSG-Util-Package)
 
+![screenshot](assets/tssg.png)
+
+## Live Demo
+
+A live demo on the example site can be found [here](https://k0src.github.io/Typst-SSG/).
+
 ## Quick Start
 
 ### Prerequisites
