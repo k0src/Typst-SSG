@@ -1,6 +1,6 @@
 #import "@local/tssg-util:0.1.0": *
 
-#set-base("http://localhost:3000")
+#set-base("https://k0src.github.io/Typst-SSG/")
 
 #let layout(body) = {
   set page(
