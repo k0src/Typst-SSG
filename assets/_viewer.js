@@ -24,6 +24,8 @@ async function renderPdf() {
         }
         return prefix + path;
       },
+      INITIAL_MEMORY: 128 * 1024 * 1024,
+      ALLOW_MEMORY_GROWTH: true,
     });
 
     pdfium.PDFiumExt_Init();
@@ -476,6 +478,8 @@ async function renderSidebarPdf(pdfUrl, containerId) {
         }
         return prefix + path;
       },
+      INITIAL_MEMORY: 128 * 1024 * 1024,
+      ALLOW_MEMORY_GROWTH: true,
     });
 
     pdfium.PDFiumExt_Init();
